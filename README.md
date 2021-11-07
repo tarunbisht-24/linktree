@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img alt="Layout" src="https://user-images.githubusercontent.com/43749971/77254747-c0b54280-6c41-11ea-81a0-a597ee22b56e.png">
+  <img alt="Layout" src="https://github.com/tarunbisht-24/My-Linktree/blob/8e3a41102d2ace1d4cc42ab1ab02fab1fb737443/preview.png">
 </p>
 
 ---
