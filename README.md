@@ -4,7 +4,7 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/JohnEmerson1406/linktree?color=04D361&labelColor=000000">
   
-  <a href="https://www.linkedin.com/in/tarun-bisht-38724b201">
+  <a href="https://github.com/tarunbisht-24">
     <img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=Tarun%20Bisht&color=04D361&labelColor=000000">
   </a>
   
