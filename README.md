@@ -2,13 +2,13 @@
 <h3 align="center">Simple site to group all my profiles on social networks in one place.</h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/JohnEmerson1406/linktree?color=04D361&labelColor=000000">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tarunbisht-24/My-Linktree?color=04D361&labelColor=000000">
   
   <a href="https://github.com/tarunbisht-24">
     <img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=Tarun%20Bisht&color=04D361&labelColor=000000">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JohnEmerson1406/myanimelist-profile?color=04D361&labelColor=000000">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tarunbisht-24/MyMusicList-profile?color=04D361&labelColor=000000">
   
   <a href="https://github.com/tarunbisht-24/My-Linktree/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tarunbisht-24/My-Linktree?color=04D361&labelColor=000000">
