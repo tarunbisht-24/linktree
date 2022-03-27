@@ -8,7 +8,7 @@
     <img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=Tarun%20Bisht&color=04D361&labelColor=000000">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tarunbisht-24/MyMusicList-profile?color=04D361&labelColor=000000">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tarunbisht-24/My-Linktree?color=04D361&labelColor=000000">
   
   <a href="https://github.com/tarunbisht-24/My-Linktree/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tarunbisht-24/My-Linktree?color=04D361&labelColor=000000">
@@ -29,22 +29,37 @@
 
 ---
 
-## :bulb: About the project
+## 💡 About the project
 
-- This is an open source project that serves as a free alternative to the Linktree website, made only in html and css.
+This is an open source project that serves as a free alternative to the Linktree website.
+- [Demo](tarunbisht-24.github.io/my-linktree/)
 
-- [Deploy](https://tarunbisht-24.github.io/My-Linktree)
+## 🚀 Getting started
 
-## :rocket: Getting started
+If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
+[Download the ZIP from this location](https://github.com/tarunbisht-24/My-Linktree/archive/master.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+```bash
+git clone https://github.com/JohnEmerson1406/linktree
+```
+- Once the files are on your machine, open the _linktree_ folder in [Visual Studio Code](https://code.visualstudio.com/).
+- With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+- Change the profile image and texts in the `index.html` file.
+- Change the colors and fonts in the `style.css` file.
+- To change the background, go to the `style.css` file on line 17, uncomment the code snippet and change the url to whatever image you want.
 
-- After downloading this repository, make changes to images and text in the `index.html` file. If desired, change the colors and fonts in the `style.css` file.
+## 🤔 How to contribute
+
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m "feat: my new feature"`;
+- Push to your branch: `git push origin my-feature`.
+
+Once your pull request has been merged, you can delete your branch.
+
+## 📝 License
+
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
 
 ---
 
-## :star2: Extras
-- [Shields.io](https://shields.io/)
-- [Github Emojis](https://gist.github.com/rxaviers/7360908)
-
----
-
-Made with ♥ by Tarun Bisht :wave: [Get in touch](https://tarunbisht-24.github.io/My-Linktree)
+Made with ❤️ by Tarun Bisht :wave: [Get in touch](https://github.com/tarunbisht-24)
