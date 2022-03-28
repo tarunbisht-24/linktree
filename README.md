@@ -32,7 +32,7 @@
 ## 💡 About the project
 
 This is an open source project that serves as a free alternative to the Linktree website.
-- [Demo](tarunbisht-24.github.io/my-linktree/)
+- [Demo](tarunbisht-24.github.io/My-Linktree/)
 
 ## 🚀 Getting started
 
