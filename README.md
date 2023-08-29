@@ -10,7 +10,7 @@
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/tarunbisht-24/My-Linktree?color=04D361&labelColor=000000">
   
-  <a href="https://github.com/tarunbisht-24/My-Linktree/commits/master">
+  <a href="https://github.com/tarunbisht-24/My-Linktree/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tarunbisht-24/My-Linktree?color=04D361&labelColor=000000">
   </a>
 </p>
