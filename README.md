@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img alt="Layout" src="https://github.com/tarunbisht-24/linktree/blob/02e071dae7669dca0bce6e59cf0665b5a1cfff02/Screenshot%20from%202023-08-31%2012-50-50.png">
+  <img alt="Layout" src="https://github.com/tarunbisht-24/linktree/blob/5d4ba22d70db07e45476efef2e6e0bc7a11ae8a5/preview.png">
 </p>
 
 ---
