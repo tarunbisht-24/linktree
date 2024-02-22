@@ -33,7 +33,7 @@
 ## 💡 About the project
 
 This is an open source project that serves as a free alternative to the Linktree website.
-- [Demo](https://linktree-tarun.netlify.app/)
+- [Demo](https://tarunbisht-24.github.io/linktree/)
 
 ## 🚀 Getting started
 
